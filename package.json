@@ -1,0 +1,20 @@
+{
+  "name": "feps",
+  "version": "0.0.0",
+  "description": "Frontend developer's Photoshop tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiu8310/feps.git"
+  },
+  "keywords": [],
+  "author": "Mora <qiuzhongleiabc@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qiu8310/feps/issues"
+  },
+  "homepage": "https://github.com/qiu8310/feps#readme"
+}

@@ -1,2 +1,3 @@
 # feps
-Frontend developer's phontshop tool
+
+Frontend developer's Photoshop tool
